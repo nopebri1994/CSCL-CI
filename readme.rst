@@ -1,4 +1,4 @@
-Colaboration program with Defriyan Tri Gusman
+Collaboration Program with Defriyan Tri Gusman
 ###################
 What is CodeIgniter
 ###################
